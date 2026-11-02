@@ -1,0 +1,94 @@
+1
+00:00:01,200 --> 00:00:03,897
+Every AI product starts
+with a breakthrough.
+
+2
+00:00:04,200 --> 00:00:05,775
+Then usage grows.
+
+3
+00:00:06,300 --> 00:00:09,947
+So do the tokens, the models,
+the retries, and the costs.
+
+4
+00:00:12,200 --> 00:00:13,660
+The obvious fix?
+
+5
+00:00:13,700 --> 00:00:15,465
+Switch to something cheaper.
+
+6
+00:00:16,000 --> 00:00:17,994
+But cheaper can fail quietly.
+
+7
+00:00:18,400 --> 00:00:21,450
+A lower bill means nothing
+if the result breaks.
+
+8
+00:00:23,400 --> 00:00:25,222
+That's why we built ZEVQORA.
+
+9
+00:00:27,700 --> 00:00:30,171
+We map how AI work actually runs.
+
+10
+00:00:30,500 --> 00:00:35,581
+We identify expensive paths, test
+alternatives, and measure what changes.
+
+11
+00:00:36,000 --> 00:00:40,389
+We replay representative workloads
+against defined requirements.
+
+12
+00:00:41,000 --> 00:00:44,155
+If the evidence passes,
+the change can be reviewed.
+
+13
+00:00:44,500 --> 00:00:46,756
+If quality drops, it's rejected.
+
+14
+00:00:47,100 --> 00:00:49,944
+If the proof isn't there,
+we say: incomplete.
+
+15
+00:00:50,300 --> 00:00:51,960
+No blind switches.
+
+16
+00:00:52,000 --> 00:00:53,960
+No manufactured savings.
+
+17
+00:00:54,400 --> 00:00:55,260
+Measure.
+
+18
+00:00:55,300 --> 00:00:56,160
+Replay.
+
+19
+00:00:56,200 --> 00:00:57,110
+Verify.
+
+20
+00:00:57,150 --> 00:00:58,548
+Then optimize.
+
+21
+00:00:59,300 --> 00:01:00,405
+ZEVQORA.
+
+22
+00:01:00,700 --> 00:01:02,182
+Make AI lighter.
