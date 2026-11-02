@@ -1,0 +1,156 @@
+[
+  {
+    "id": "v01",
+    "wer": 0.0,
+    "avg_logprob": -0.311,
+    "expected": "Every AI product starts with a breakthrough.",
+    "heard": "Every AI product starts with a breakthrough."
+  },
+  {
+    "id": "v02",
+    "wer": 0.0,
+    "avg_logprob": -0.529,
+    "expected": "Then usage grows.",
+    "heard": "Then usage grows."
+  },
+  {
+    "id": "v03",
+    "wer": 0.0,
+    "avg_logprob": -0.2,
+    "expected": "So do the tokens, the models, the retries, and the costs.",
+    "heard": "So do the tokens, the models, the retries, and the costs."
+  },
+  {
+    "id": "v04",
+    "wer": 0.0,
+    "avg_logprob": -0.368,
+    "expected": "The obvious fix?",
+    "heard": "The Obvious Fix"
+  },
+  {
+    "id": "v05",
+    "wer": 0.0,
+    "avg_logprob": -0.423,
+    "expected": "Switch to something cheaper.",
+    "heard": "Switch to something cheaper."
+  },
+  {
+    "id": "v06",
+    "wer": 0.0,
+    "avg_logprob": -0.371,
+    "expected": "But cheaper can fail quietly.",
+    "heard": "but cheaper can fail quietly."
+  },
+  {
+    "id": "v07",
+    "wer": 0.0,
+    "avg_logprob": -0.176,
+    "expected": "A lower bill means nothing if the result breaks.",
+    "heard": "A lower bill means nothing if the result breaks."
+  },
+  {
+    "id": "v08",
+    "wer": 0.0,
+    "avg_logprob": -0.417,
+    "expected": "That's why we built ZEVQORA.",
+    "heard": "That's why we built Zevkora."
+  },
+  {
+    "id": "v09",
+    "wer": 0.0,
+    "avg_logprob": -0.31,
+    "expected": "We map how AI work actually runs.",
+    "heard": "we map how AI work actually runs."
+  },
+  {
+    "id": "v10",
+    "wer": 0.0,
+    "avg_logprob": -0.193,
+    "expected": "We identify expensive paths, test alternatives, and measure what changes.",
+    "heard": "We identify expensive paths, test alternatives, and measure what changes."
+  },
+  {
+    "id": "v11",
+    "wer": 0.0,
+    "avg_logprob": -0.292,
+    "expected": "We replay representative workloads against defined requirements.",
+    "heard": "we replay representative workloads against defined requirements."
+  },
+  {
+    "id": "v12",
+    "wer": 0.0,
+    "avg_logprob": -0.205,
+    "expected": "If the evidence passes, the change can be reviewed.",
+    "heard": "If the evidence passes, the change can be reviewed."
+  },
+  {
+    "id": "v13",
+    "wer": 0.0,
+    "avg_logprob": -0.24,
+    "expected": "If quality drops, it's rejected.",
+    "heard": "If quality drops, it's rejected."
+  },
+  {
+    "id": "v14",
+    "wer": 0.0,
+    "avg_logprob": -0.262,
+    "expected": "If the proof isn't there, we say: incomplete.",
+    "heard": "If the proof isn't there, we say incomplete."
+  },
+  {
+    "id": "v15",
+    "wer": 0.0,
+    "avg_logprob": -0.427,
+    "expected": "No blind switches.",
+    "heard": "No blind switches."
+  },
+  {
+    "id": "v16",
+    "wer": 0.0,
+    "avg_logprob": -0.474,
+    "expected": "No manufactured savings.",
+    "heard": "No manufactured savings."
+  },
+  {
+    "id": "v17",
+    "wer": 0.0,
+    "avg_logprob": -0.92,
+    "expected": "Measure.",
+    "heard": "MEASURE"
+  },
+  {
+    "id": "v18",
+    "wer": 0.0,
+    "avg_logprob": -0.835,
+    "expected": "Replay.",
+    "heard": "Replay."
+  },
+  {
+    "id": "v19",
+    "wer": 0.0,
+    "avg_logprob": -0.711,
+    "expected": "Verify.",
+    "heard": "Verify."
+  },
+  {
+    "id": "v20",
+    "wer": 0.0,
+    "avg_logprob": -0.53,
+    "expected": "Then optimize.",
+    "heard": "then optimize."
+  },
+  {
+    "id": "v21",
+    "wer": 0.0,
+    "avg_logprob": -0.599,
+    "expected": "ZEVQORA.",
+    "heard": "Zevkora."
+  },
+  {
+    "id": "v22",
+    "wer": 0.0,
+    "avg_logprob": -0.519,
+    "expected": "Make AI lighter.",
+    "heard": "Make AI lighter."
+  }
+]

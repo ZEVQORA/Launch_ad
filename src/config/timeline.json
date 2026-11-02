@@ -1,0 +1,73 @@
+{
+  "_doc": "Single source of truth for timing, in SECONDS. Remotion (src/config/timeline.ts), the score (scripts/compose-music.py), SFX (scripts/sound-design.py) and the mixer (scripts/mix-audio.py) all read this file. VO durations come from public/audio/vo/manifest.json; word offsets from src/config/words.json.",
+  "fps": 30,
+  "film": {
+    "duration": 64.0,
+    "scenes": {
+      "opening":      [0.0, 6.0],
+      "cost":         [6.0, 12.0],
+      "risk":         [12.0, 23.0],
+      "reveal":       [23.0, 27.5],
+      "product":      [27.5, 40.8],
+      "verification": [40.8, 54.0],
+      "finale":       [54.0, 64.0]
+    },
+    "vo": {
+      "v01": 1.2,  "v02": 4.2,  "v03": 6.3,
+      "v04": 12.2, "v05": 13.7, "v06": 16.0, "v07": 18.4,
+      "v08": 23.4,
+      "v09": 27.7, "v10": 30.5, "v11": 36.0,
+      "v12": 41.0, "v13": 44.5, "v14": 47.1, "v15": 50.3, "v16": 52.0,
+      "v17": 54.4, "v18": 55.3, "v19": 56.2, "v20": 57.15,
+      "v21": 59.3, "v22": 60.7
+    },
+    "events": {
+      "openImpact": 0.3,
+      "seed": 4.78,
+      "tokens": 6.72, "models": 7.68, "retries": 8.28, "costs": 9.12,
+      "costWhoosh": 11.7,
+      "obviousFix": 12.2,
+      "candidate": 14.52,
+      "quietFail": 16.7,
+      "rejectStamp": 20.56,
+      "collapseStart": 21.3,
+      "preHitSilence": 22.86,
+      "revealImpact": 23.0,
+      "wordmark": 24.18,
+      "toProduct": 27.2,
+      "observe": 27.7,
+      "diagnose": 31.16,
+      "plan": 32.82,
+      "measure": 34.1,
+      "replay": 36.14,
+      "verifyStep": 40.2,
+      "verifiedChime": 41.62,
+      "rejectedTone": 45.78,
+      "incompleteTone": 48.48,
+      "noBlind": 50.3,
+      "noManufactured": 52.0,
+      "wMeasure": 54.4, "wReplay": 55.3, "wVerify": 56.2, "wOptimize": 57.15,
+      "collapseToLogo": 58.55,
+      "logoHit": 58.9,
+      "tagline": 60.7,
+      "fadeOut": 63.0
+    }
+  },
+  "teaser": {
+    "duration": 19.0,
+    "vo": { "v05": 0.9, "v06": 2.7, "v08": 6.4, "v17": 10.0, "v18": 10.85, "v19": 11.7, "v20": 12.6, "v22": 15.6 },
+    "events": {
+      "openImpact": 0.2,
+      "candidate": 1.72,
+      "quietFail": 3.4,
+      "rejectStamp": 4.6,
+      "preHitSilence": 5.86,
+      "revealImpact": 6.0,
+      "wordmark": 7.18,
+      "wMeasure": 10.0, "wReplay": 10.85, "wVerify": 11.7, "wOptimize": 12.6,
+      "logoHit": 14.3,
+      "tagline": 15.6,
+      "fadeOut": 18.2
+    }
+  }
+}

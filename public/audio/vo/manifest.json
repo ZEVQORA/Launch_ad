@@ -1,0 +1,163 @@
+{
+  "voice": "af_heart",
+  "speed": 0.92,
+  "sampleRate": 48000,
+  "gainDb": 4.12,
+  "lines": [
+    {
+      "id": "v01",
+      "scene": "opening",
+      "text": "Every AI product starts with a breakthrough.",
+      "file": "audio/vo/v01.wav",
+      "seconds": 2.4467
+    },
+    {
+      "id": "v02",
+      "scene": "opening",
+      "text": "Then usage grows.",
+      "file": "audio/vo/v02.wav",
+      "seconds": 1.3249
+    },
+    {
+      "id": "v03",
+      "scene": "cost",
+      "text": "So do the tokens, the models, the retries, and the costs.",
+      "file": "audio/vo/v03.wav",
+      "seconds": 3.3966
+    },
+    {
+      "id": "v04",
+      "scene": "risk",
+      "text": "The obvious fix?",
+      "file": "audio/vo/v04.wav",
+      "seconds": 1.2439
+    },
+    {
+      "id": "v05",
+      "scene": "risk",
+      "text": "Switch to something cheaper.",
+      "file": "audio/vo/v05.wav",
+      "seconds": 1.5147
+    },
+    {
+      "id": "v06",
+      "scene": "risk",
+      "text": "But cheaper can fail quietly.",
+      "file": "audio/vo/v06.wav",
+      "seconds": 1.7438
+    },
+    {
+      "id": "v07",
+      "scene": "risk",
+      "text": "A lower bill means nothing if the result breaks.",
+      "file": "audio/vo/v07.wav",
+      "seconds": 2.8001
+    },
+    {
+      "id": "v08",
+      "scene": "reveal",
+      "text": "That's why we built ZEVQORA.",
+      "file": "audio/vo/v08.wav",
+      "seconds": 1.5717
+    },
+    {
+      "id": "v09",
+      "scene": "product",
+      "text": "We map how AI work actually runs.",
+      "file": "audio/vo/v09.wav",
+      "seconds": 2.2208
+    },
+    {
+      "id": "v10",
+      "scene": "product",
+      "text": "We identify expensive paths, test alternatives, and measure what changes.",
+      "file": "audio/vo/v10.wav",
+      "seconds": 4.8306
+    },
+    {
+      "id": "v11",
+      "scene": "product",
+      "text": "We replay representative workloads against defined requirements.",
+      "file": "audio/vo/v11.wav",
+      "seconds": 4.1391
+    },
+    {
+      "id": "v12",
+      "scene": "verification",
+      "text": "If the evidence passes, the change can be reviewed.",
+      "file": "audio/vo/v12.wav",
+      "seconds": 2.9054
+    },
+    {
+      "id": "v13",
+      "scene": "verification",
+      "text": "If quality drops, it's rejected.",
+      "file": "audio/vo/v13.wav",
+      "seconds": 2.0062
+    },
+    {
+      "id": "v14",
+      "scene": "verification",
+      "text": "If the proof isn't there, we say: incomplete.",
+      "file": "audio/vo/v14.wav",
+      "seconds": 2.5941
+    },
+    {
+      "id": "v15",
+      "scene": "verification",
+      "text": "No blind switches.",
+      "file": "audio/vo/v15.wav",
+      "seconds": 1.4109
+    },
+    {
+      "id": "v16",
+      "scene": "verification",
+      "text": "No manufactured savings.",
+      "file": "audio/vo/v16.wav",
+      "seconds": 1.7099
+    },
+    {
+      "id": "v17",
+      "scene": "finale",
+      "text": "Measure.",
+      "file": "audio/vo/v17.wav",
+      "seconds": 0.6886
+    },
+    {
+      "id": "v18",
+      "scene": "finale",
+      "text": "Replay.",
+      "say": "Re-play.",
+      "file": "audio/vo/v18.wav",
+      "seconds": 0.8068
+    },
+    {
+      "id": "v19",
+      "scene": "finale",
+      "text": "Verify.",
+      "file": "audio/vo/v19.wav",
+      "seconds": 0.8508
+    },
+    {
+      "id": "v20",
+      "scene": "finale",
+      "text": "Then optimize.",
+      "file": "audio/vo/v20.wav",
+      "seconds": 1.1478
+    },
+    {
+      "id": "v21",
+      "scene": "finale",
+      "text": "ZEVQORA.",
+      "file": "audio/vo/v21.wav",
+      "seconds": 0.855
+    },
+    {
+      "id": "v22",
+      "scene": "finale",
+      "text": "Make AI lighter.",
+      "file": "audio/vo/v22.wav",
+      "seconds": 1.2319
+    }
+  ]
+}

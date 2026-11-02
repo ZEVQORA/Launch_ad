@@ -1,0 +1,13 @@
+{
+  "which": "film",
+  "duration_s": 64.0,
+  "integrated_lufs": -14.03,
+  "true_peak_dbtp_est": -1.48,
+  "max_limiter_gain_reduction_db": -4.99,
+  "stem_lufs": {
+    "vo": -14.0,
+    "music": -20.6,
+    "sfx": -17.5
+  },
+  "music_under_speech_db": -9.0
+}

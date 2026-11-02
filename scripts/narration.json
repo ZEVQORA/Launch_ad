@@ -1,0 +1,31 @@
+{
+  "voice": "af_heart",
+  "speed": 0.92,
+  "lang": "en-us",
+  "zevqoraPhonemes": "zˈɛvkɔːɹə",
+  "notes": "Each line is generated as its own clip so the film timeline controls pauses and emphasis. Edit text here, re-run scripts/generate-voice.py, then scripts/build-timeline.py.",
+  "lines": [
+    { "id": "v01", "scene": "opening",      "text": "Every AI product starts with a breakthrough." },
+    { "id": "v02", "scene": "opening",      "text": "Then usage grows." },
+    { "id": "v03", "scene": "cost",         "text": "So do the tokens, the models, the retries, and the costs." },
+    { "id": "v04", "scene": "risk",         "text": "The obvious fix?" },
+    { "id": "v05", "scene": "risk",         "text": "Switch to something cheaper." },
+    { "id": "v06", "scene": "risk",         "text": "But cheaper can fail quietly." },
+    { "id": "v07", "scene": "risk",         "text": "A lower bill means nothing if the result breaks." },
+    { "id": "v08", "scene": "reveal",       "text": "That's why we built ZEVQORA." },
+    { "id": "v09", "scene": "product",      "text": "We map how AI work actually runs." },
+    { "id": "v10", "scene": "product",      "text": "We identify expensive paths, test alternatives, and measure what changes." },
+    { "id": "v11", "scene": "product",      "text": "We replay representative workloads against defined requirements." },
+    { "id": "v12", "scene": "verification", "text": "If the evidence passes, the change can be reviewed." },
+    { "id": "v13", "scene": "verification", "text": "If quality drops, it's rejected." },
+    { "id": "v14", "scene": "verification", "text": "If the proof isn't there, we say: incomplete." },
+    { "id": "v15", "scene": "verification", "text": "No blind switches." },
+    { "id": "v16", "scene": "verification", "text": "No manufactured savings." },
+    { "id": "v17", "scene": "finale",       "text": "Measure." },
+    { "id": "v18", "scene": "finale",       "text": "Replay.", "say": "Re-play." },
+    { "id": "v19", "scene": "finale",       "text": "Verify." },
+    { "id": "v20", "scene": "finale",       "text": "Then optimize." },
+    { "id": "v21", "scene": "finale",       "text": "ZEVQORA." },
+    { "id": "v22", "scene": "finale",       "text": "Make AI lighter." }
+  ]
+}

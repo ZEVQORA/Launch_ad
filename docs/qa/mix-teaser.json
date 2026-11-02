@@ -1,0 +1,13 @@
+{
+  "which": "teaser",
+  "duration_s": 19.0,
+  "integrated_lufs": -14.07,
+  "true_peak_dbtp_est": -1.5,
+  "max_limiter_gain_reduction_db": -4.18,
+  "stem_lufs": {
+    "vo": -14.9,
+    "music": -18.0,
+    "sfx": -15.6
+  },
+  "music_under_speech_db": -9.0
+}
